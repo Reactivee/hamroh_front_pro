@@ -13,7 +13,7 @@ export default function OfertaPage() {
   const [numPages, setNumPages] = useState(null);
 
   // Example API PDF URL
-  const apiUrl = "https://api.mobilnasiya.uz/api/docs/contract";
+  const apiUrl = "https://mapi.hamrohnasiya.uz/api/docs/contract";
 
   useEffect(() => {
     async function fetchPdf() {
