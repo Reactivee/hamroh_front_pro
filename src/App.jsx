@@ -11,7 +11,7 @@ function App() {
           <Route path="/" element={<Main />} />
         </Routes>
         <Routes>
-          <Route path="/oferta" element={<OfertaPage />} />
+          <Route path="/offer" element={<OfertaPage />} />
         </Routes>
       </BrowserRouter>
     </>
