@@ -1,6 +1,7 @@
 import { BlinkBlur } from "react-loading-indicators";
 
 const Loading = () => {
+    
   return (
     <div
       style={{
